@@ -9,7 +9,7 @@ spec:
     type: Git
     git:
       ref: master
-      uri: https://github.com/clcollins/golang-s2i.git
+      uri: https://github.com/snifbr/golang-s2i.git
   strategy:
     type: Docker
     dockerStrategy:
